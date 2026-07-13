@@ -52,5 +52,3 @@ The project uses three tables:
 - Exported CSV file (`exported_churn_data.csv`)
 - Business insights with charts and KPI calculations
 
-## Author
-**Gayetri**
